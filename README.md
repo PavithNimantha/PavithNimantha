@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats-pavithnimantha.vercel.app/api/top-langs?username=pavithnimantha&show_icons=true&locale=en&layout=compact&theme=transparent" alt="pavithnimantha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-pavithnimantha.vercel.app/api?username=pavithnimantha&show_icons=true&locale=en" alt="pavithnimantha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-pavithnimantha.vercel.app/api?username=pavithnimantha&show_icons=true&locale=en&theme=shadow_red" alt="pavithnimantha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats-pavithnimantha.vercel.com/?user=pavithnimantha&" alt="pavithnimantha" /></p>
