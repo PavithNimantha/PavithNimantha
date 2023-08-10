@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-pavithnimantha.vercel.app/api?username=pavithnimantha&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-pavithnimantha.vercel.com/?user=pavithnimantha&" alt="Streak Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-pavithnimantha.vercel.com/?user=pavithnimantha&theme=dark" alt="Streak Stats" /></p>
