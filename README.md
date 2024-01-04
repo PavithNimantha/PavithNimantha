@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pavith_nimantha" target="blank"><img src="https://img.shields.io/twitter/follow/pavith_nimantha?logo=twitter&style=for-the-badge" alt="pavith_nimantha" /></a> </p>
 
-- 🔭 I’m currently working on **Android & Web App Development**
+- 🔭 I’m currently working on **Web App Development**
 
 - 🌱 I’m currently learning **MERN Stack**
 
