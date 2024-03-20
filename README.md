@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://www.linkedin.com/in/pavithnimantha/)
 <h1 align="center">Hi 👋, I'm Pavith Nimantha</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Creative+Problem+Solver+Who+Builds+Beautiful+Software)](https://git.io/typing-svg)
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&random=false&width=435&lines=Creative+Problem+Solver;Who+Builds+Beautiful+Software." alt="Typing SVG" /></a>
 <img align="right" alt="Github Avatar" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavithnimantha&label=Profile%20views&color=0e75b6&style=flat" alt="pavithnimantha" /> </p>
