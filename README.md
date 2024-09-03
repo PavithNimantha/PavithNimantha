@@ -3,15 +3,7 @@
 <div align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&random=false&width=435&lines=Creative+Problem+Solver;Who+Builds+Beautiful+Software." alt="Typing SVG" /></a></div>
 <img align="right" alt="Github Avatar" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavithnimantha&label=Profile%20views&color=0e75b6&style=flat" alt="pavithnimantha" /> </p>
-
 <p align="left"> <a href="https://twitter.com/pavith_nimantha" target="blank"><img src="https://img.shields.io/twitter/follow/pavith_nimantha?logo=twitter&style=for-the-badge" alt="pavith_nimantha" /></a> </p>
-
-- 🔭 I’m currently working on **Web App Development**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 📫 How to reach me **pavithsky@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
