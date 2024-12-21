@@ -3,14 +3,11 @@
 <div align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&random=false&width=435&lines=Creative+Problem+Solver;Who+Builds+Beautiful+Software." alt="Typing SVG" /></a></div>
 <img align="right" alt="Github Avatar" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
-<p align="left"> <a href="https://twitter.com/pavith_nimantha" target="blank"><img src="https://img.shields.io/twitter/follow/pavith_nimantha?logo=twitter&style=for-the-badge" alt="pavith_nimantha" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pavith_nimantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavith_nimantha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pavithnimantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithnimantha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16716214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16716214" height="30" width="40" /></a>
-<a href="https://fb.com/pavith.nimantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pavith.nimantha" height="30" width="40" /></a>
 <a href="https://instagram.com/__nima_p__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nima_p__" height="30" width="40" /></a>
 </p>
 
